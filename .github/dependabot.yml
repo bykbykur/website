@@ -10,3 +10,4 @@ updates:
     directory: "/" # Location of package manifests
     schedule:
       interval: "daily"
+version: 3 hello world from byk
